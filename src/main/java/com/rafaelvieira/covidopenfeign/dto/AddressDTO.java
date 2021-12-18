@@ -8,6 +8,7 @@ import lombok.Setter;
 @Setter
 public class AddressDTO {
 
+    //@JsonProperty responsavel por especificar o nome do atributo no JSON correto
     @JsonProperty("cep")
     private String zipCode;
 
