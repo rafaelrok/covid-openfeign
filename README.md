@@ -32,10 +32,6 @@ entre outros...
 - Busca de endereços a partir do CEP
 - Busca de informações da COVID-19 a partir do estado/UF
 
-### Para testar todos os recursos da aplicação, utilize a collection do Postman abaixo:
-
-- [Postman Collection](https://www.getpostman.com/collections/0d3373477809b21f4ff9)
-
 ## Links úteis
 
 - [Spring Initializr](https://start.spring.io/)
